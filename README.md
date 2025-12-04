@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Jordan]((https://www.linkedin.com/in/jordan-goedbloed-2a7a11157/)"), a Creative Technologist based in the Netherlands.
+I'm [Jordan]("(https://www.linkedin.com/in/jordan-goedbloed-2a7a11157/)"), a Creative Technologist based in the Netherlands.
 
 I love creating smooth, modern digital experiences using React, TypeScript, Tailwind CSS, and Framer Motion
 
@@ -10,7 +10,7 @@ Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.j
 Always building, always designing, always learning. 🚀
 
 Fun facts:
-* I have one cat :black_cat:
+* I have one cat :cat:
 * I love coffee and tea
 * My favorite game is Elden Ring
 
