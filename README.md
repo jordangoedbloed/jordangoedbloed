@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**jordangoedbloed/jordangoedbloed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Jordan]((https://www.linkedin.com/in/jordan-goedbloed-2a7a11157/)"), a Creative Technologist based in the Netherlands.
 
-Here are some ideas to get you started:
+I love creating smooth, modern digital experiences using React, TypeScript, Tailwind CSS, and Framer Motion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is: React, Typescript, Tailwind and framer motion. The tools I like to use the most are Figma, Photoshop and Obisidian.
+Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.js, React, and Node.js
+
+Always building, always designing, always learning. 🚀
+
+Fun facts:
+I have one cat :black_cat:
+I love coffee and tea
+My favorite game is Elden Ring
+
