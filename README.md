@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Jordan]("(https://www.linkedin.com/in/jordan-goedbloed-2a7a11157/)"), a Creative Technologist based in the Netherlands.
+I'm [Jordan]((https://www.linkedin.com/in/jordan-goedbloed-2a7a11157/ "Named link title"), a Creative Technologist based in the Netherlands.
 
 I love creating smooth, modern digital experiences using React, TypeScript, Tailwind CSS, and Framer Motion
 
