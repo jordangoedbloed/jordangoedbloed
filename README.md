@@ -10,7 +10,7 @@ Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.j
 Always building, always designing, always learning. 🚀
 
 Fun facts:
-I have one cat :black_cat:
-I love coffee and tea
-My favorite game is Elden Ring
+* I have one cat :black_cat:
+* I love coffee and tea
+* My favorite game is Elden Ring
 
