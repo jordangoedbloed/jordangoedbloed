@@ -9,6 +9,8 @@ Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.j
 
 Always building, always designing, always learning. 🚀
 
+I'm currently working on a data science project where we as a team are creating our own elo to predict a feature's players peak performance
+
 Fun facts:
 * I have one cat :cat:
 * I love coffee and tea
