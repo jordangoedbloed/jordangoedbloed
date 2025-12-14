@@ -7,7 +7,6 @@ I love creating smooth, modern digital experiences using React, TypeScript, Tail
 My main tech stack is: React, Typescript, Tailwind and framer motion. The tools I like to use the most are Figma, Photoshop and Obisidian.
 Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.js, React, and Node.js
 
-Always building, always designing, always learning. 🚀
 
 I'm currently working on a data science project where we as a team are creating our own elo to predict a feature's players peak performance
 
