@@ -8,7 +8,7 @@ My main tech stack is: React, Typescript, Tailwind and framer motion. The tools 
 Other tech stacks that I use from time to time is MERN stack: MongoDB, Express.js, React, and Node.js
 
 
-I'm currently working on a data science project where we as a team are creating our own elo to predict a feature's players peak performance
+I'm currently working on a data science project where we as a team are creating our own elo to predict a future's players peak performance.
 
 Fun facts:
 * I have one cat :cat:
